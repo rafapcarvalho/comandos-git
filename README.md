@@ -327,7 +327,7 @@ A mensagem indicando um *merge* manual será:
 
 ##### Apagar branch remoto
 
-	git push origin:bug-123
+	git push origin --delete bug-123
 
 ### Rebasing
 
