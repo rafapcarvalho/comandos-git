@@ -47,10 +47,13 @@ As configurações realizadas através dos comandos abaixo serão incluídas no 
 	git remote get-url origin
 	
 ##### Setar outra url de acordo com o tipo de conexão
-	* Se o retorno do get-url é uma url https e necessita mudar para url ssh 
+
+Se o retorno do get-url é uma **url https** e necessita mudar para **url ssh**
+	
 	git remote set-url origin git@gitlab.com:url.git
 	
-	* Se o retorno do get-url é uma url ssh e necessita mudar para url https
+Se o retorno do get-url é uma **url ssh** e necessita mudar para **url https**
+	
 	git remote set-url origin https://gitlab.com/url.git
 
 ### Ignorar Arquivos
