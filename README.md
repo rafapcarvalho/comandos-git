@@ -195,7 +195,7 @@ A alteração do diretório pode ser realizada através do comando abaixo:
 
 ### Vincular repositório local com um repositório remoto
 
-	git remote add origin git@github.com:leocomelli/curso-git.git
+	git remote add origin git@github.com:rafapcarvalho/comandos-git.git
 	
 ### Exibir informações dos repositórios remotos
 
@@ -232,7 +232,7 @@ Os demais **pushes** não precisam dessa informação
 	
 ### Clonar um repositório remoto já existente
 
-	git clone git@github.com:leocomelli/curso-git.git
+	git clone git@github.com:rafapcarvalho/comandos-git.git
 	
 ### Tags
 
