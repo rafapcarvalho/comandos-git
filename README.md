@@ -302,7 +302,9 @@ A mensagem indicando um *merge* manual será:
 
 	git branch -d bug-123
 
-##### Listar branches 
+##### Listar branches local e remota
+	
+	git branch -a
 
 ###### Listar branches
 
